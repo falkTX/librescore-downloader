@@ -1,17 +1,13 @@
   
-# musescore-downloader
+# librescore-downloader
 
-**English** | [简体中文](#musescore-downloader-1)  | [Español](#musescore-downloader-2)  | [Italian](#musescore-downloader-3) 
+**English** | [简体中文](#librescore-downloader-1)  | [Español](#librescore-downloader-2)  | [Italian](#librescore-downloader-3) 
 
 > download sheet music from musescore.com for free, no login or Musescore Pro required
 
-**Star this project on [Github](https://github.com/Xmader/musescore-downloader) and [Gitlab](https://gitlab.com/Xmader/musescore-downloader)** (Mirror)   
-
-[![Discord](https://img.shields.io/discord/774491656643674122?color=7289da&label=Discord&logo=discord)](https://discord.gg/DKu7cUZ4XQ)
-
 Need dataset of musescore.com for analysis / machine learning? try [musescore-dataset](https://github.com/Xmader/musescore-dataset).
 
-![](https://cdn.statically.io/gh/Xmader/musescore-downloader/master/screenshot.png?env=dev)
+![](https://cdn.statically.io/gh/falkTX/librescore-downloader/master/screenshot.png?env=dev)
 
 ## Fair Use
 
